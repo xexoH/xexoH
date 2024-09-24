@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://github.com/user-attachments/assets/a261156b-0890-4022-b579-38566c5c7dc9)
 
 <!--
 **xexoH/xexoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
